@@ -6,7 +6,6 @@ import java.awt.event.ActionEvent;
 
 /**
  * A simple GUI with buttons to change the shape and color of an icon.
- * For CS260 Project 2.
  * @author Orion Guan
  * @version April 11th, 2017
  */
